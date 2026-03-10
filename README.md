@@ -15,22 +15,26 @@
 3. 날씨 데이터 크롤링하기
 
 ### 내가 좋아하는 명언
-> "배움에는 끝이 없다"
+> "배움에는 끝이 없다."
 
 ### 간단한 코드 예시
 다음은 Python의 간단한 코드입니다.
 
-<pre><code>{
-  def greet(name):
-      print(f"안녕하세요, {namee}님!")
-  greet("홍길동")
-}</code></pre>
+```python
+def greet(name):
+  print(f"안녕하세요, {namee}님!")
+greet("홍길동")
+```
 
-링크와 이미지
-[Google로 가기][https://www.google.com/]
+### 링크와 이미지
+[Google로 가기](https://www.google.com/)
+
 귀여운 고양이 이미지:
 
-할 일 목록
+![Alt text](https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)
+
+
+### 할 일 목록
 - [x] 깃헙 계정 만들기
 - [x] 리포지토리 생성하기
 - [ ] README 작성하기
@@ -44,4 +48,11 @@
 | 김철수 | 28 | 사이클링 |
 
 ### 인용문(Blockquote)
-> "시작이 반이다:"
+> "시작이 반이다."
+
+### 강조하기
+- **굵은 글씨**
+- *기울임*
+- ~취소선~
+***
+감사합니다!
